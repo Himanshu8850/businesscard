@@ -99,6 +99,7 @@ hr{
     height:40px;
 }
 .box{
+    box-shadow:0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
     height: 313px;
     position:relative;
     bottom:150px;
